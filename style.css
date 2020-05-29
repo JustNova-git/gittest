@@ -1,7 +1,9 @@
 body{
     background-color: grey;
-    color: #000
+    color: #000;
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
 }
 p{
     font-size: 30px;
+    line-height: 15px;
 }
